@@ -1,0 +1,7 @@
+D:\VS Projects\2.Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.csprojResolveAssemblyReference.cache
+D:\VS Projects\2.Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\VS Projects\2.Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\VS Projects\2.Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\VS Projects\2.Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\VS Projects\2.Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

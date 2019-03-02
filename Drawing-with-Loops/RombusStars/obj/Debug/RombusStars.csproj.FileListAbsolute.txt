@@ -1,0 +1,7 @@
+D:\VS Projects\Drawing-with-Loops\RombusStars\obj\Debug\RombusStars.csprojResolveAssemblyReference.cache
+D:\VS Projects\Drawing-with-Loops\RombusStars\obj\Debug\RombusStars.csproj.CoreCompileInputs.cache
+D:\VS Projects\Drawing-with-Loops\RombusStars\bin\Debug\RombusStars.exe.config
+D:\VS Projects\Drawing-with-Loops\RombusStars\bin\Debug\RombusStars.exe
+D:\VS Projects\Drawing-with-Loops\RombusStars\bin\Debug\RombusStars.pdb
+D:\VS Projects\Drawing-with-Loops\RombusStars\obj\Debug\RombusStars.exe
+D:\VS Projects\Drawing-with-Loops\RombusStars\obj\Debug\RombusStars.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects\ComplexLoops\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+D:\VS Projects\ComplexLoops\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+D:\VS Projects\ComplexLoops\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+D:\VS Projects\ComplexLoops\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexLoops\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+D:\VS Projects\ComplexLoops\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb
+D:\VS Projects\ComplexLoops\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.csprojResolveAssemblyReference.cache

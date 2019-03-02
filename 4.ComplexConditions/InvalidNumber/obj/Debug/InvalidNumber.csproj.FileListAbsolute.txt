@@ -1,0 +1,7 @@
+D:\VS Projects\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.csprojResolveAssemblyReference.cache
+D:\VS Projects\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+D:\VS Projects\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe
+D:\VS Projects\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.pdb
+D:\VS Projects\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.exe
+D:\VS Projects\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.pdb

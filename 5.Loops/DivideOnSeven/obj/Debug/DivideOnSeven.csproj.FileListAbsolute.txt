@@ -1,0 +1,6 @@
+D:\VS Projects\Loops\DivideOnSeven\bin\Debug\DivideOnSeven.exe.config
+D:\VS Projects\Loops\DivideOnSeven\bin\Debug\DivideOnSeven.exe
+D:\VS Projects\Loops\DivideOnSeven\bin\Debug\DivideOnSeven.pdb
+D:\VS Projects\Loops\DivideOnSeven\obj\Debug\DivideOnSeven.csproj.CoreCompileInputs.cache
+D:\VS Projects\Loops\DivideOnSeven\obj\Debug\DivideOnSeven.exe
+D:\VS Projects\Loops\DivideOnSeven\obj\Debug\DivideOnSeven.pdb

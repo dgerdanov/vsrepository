@@ -1,0 +1,7 @@
+D:\VS Projects\2.Calculations\Calculations\bin\Debug\Calculations.exe.config
+D:\VS Projects\2.Calculations\Calculations\bin\Debug\Calculations.exe
+D:\VS Projects\2.Calculations\Calculations\bin\Debug\Calculations.pdb
+D:\VS Projects\2.Calculations\Calculations\obj\Debug\RectangleArea.csprojResolveAssemblyReference.cache
+D:\VS Projects\2.Calculations\Calculations\obj\Debug\RectangleArea.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\Calculations\obj\Debug\Calculations.exe
+D:\VS Projects\2.Calculations\Calculations\obj\Debug\Calculations.pdb

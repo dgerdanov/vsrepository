@@ -1,0 +1,6 @@
+C:\Users\Denislav\source\repos\1.Programing Intro CSharp\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+C:\Users\Denislav\source\repos\1.Programing Intro CSharp\Expression\bin\Debug\Expression.exe.config
+C:\Users\Denislav\source\repos\1.Programing Intro CSharp\Expression\bin\Debug\Expression.exe
+C:\Users\Denislav\source\repos\1.Programing Intro CSharp\Expression\bin\Debug\Expression.pdb
+C:\Users\Denislav\source\repos\1.Programing Intro CSharp\Expression\obj\Debug\Expression.exe
+C:\Users\Denislav\source\repos\1.Programing Intro CSharp\Expression\obj\Debug\Expression.pdb

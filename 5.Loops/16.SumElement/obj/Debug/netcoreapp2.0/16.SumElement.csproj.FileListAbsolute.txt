@@ -1,0 +1,11 @@
+D:\VS Projects\5.Loops\16.SumElement\bin\Debug\netcoreapp2.0\16.SumElement.deps.json
+D:\VS Projects\5.Loops\16.SumElement\bin\Debug\netcoreapp2.0\16.SumElement.runtimeconfig.json
+D:\VS Projects\5.Loops\16.SumElement\bin\Debug\netcoreapp2.0\16.SumElement.runtimeconfig.dev.json
+D:\VS Projects\5.Loops\16.SumElement\bin\Debug\netcoreapp2.0\16.SumElement.dll
+D:\VS Projects\5.Loops\16.SumElement\bin\Debug\netcoreapp2.0\16.SumElement.pdb
+D:\VS Projects\5.Loops\16.SumElement\obj\Debug\netcoreapp2.0\16.SumElement.csprojResolveAssemblyReference.cache
+D:\VS Projects\5.Loops\16.SumElement\obj\Debug\netcoreapp2.0\16.SumElement.csproj.CoreCompileInputs.cache
+D:\VS Projects\5.Loops\16.SumElement\obj\Debug\netcoreapp2.0\16.SumElement.AssemblyInfoInputs.cache
+D:\VS Projects\5.Loops\16.SumElement\obj\Debug\netcoreapp2.0\16.SumElement.AssemblyInfo.cs
+D:\VS Projects\5.Loops\16.SumElement\obj\Debug\netcoreapp2.0\16.SumElement.dll
+D:\VS Projects\5.Loops\16.SumElement\obj\Debug\netcoreapp2.0\16.SumElement.pdb

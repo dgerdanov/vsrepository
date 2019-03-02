@@ -1,0 +1,7 @@
+D:\VS Projects\ComplexLoops\PowToN\obj\Debug\PowToN.csprojResolveAssemblyReference.cache
+D:\VS Projects\ComplexLoops\PowToN\obj\Debug\PowToN.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexLoops\PowToN\bin\Debug\PowToN.exe.config
+D:\VS Projects\ComplexLoops\PowToN\bin\Debug\PowToN.exe
+D:\VS Projects\ComplexLoops\PowToN\bin\Debug\PowToN.pdb
+D:\VS Projects\ComplexLoops\PowToN\obj\Debug\PowToN.exe
+D:\VS Projects\ComplexLoops\PowToN\obj\Debug\PowToN.pdb

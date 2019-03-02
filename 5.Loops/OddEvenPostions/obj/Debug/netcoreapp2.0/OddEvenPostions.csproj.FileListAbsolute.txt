@@ -1,0 +1,10 @@
+D:\VS Projects\5.Loops\OddEvenPostions\bin\Debug\netcoreapp2.0\OddEvenPostions.deps.json
+D:\VS Projects\5.Loops\OddEvenPostions\bin\Debug\netcoreapp2.0\OddEvenPostions.runtimeconfig.json
+D:\VS Projects\5.Loops\OddEvenPostions\bin\Debug\netcoreapp2.0\OddEvenPostions.runtimeconfig.dev.json
+D:\VS Projects\5.Loops\OddEvenPostions\bin\Debug\netcoreapp2.0\OddEvenPostions.dll
+D:\VS Projects\5.Loops\OddEvenPostions\bin\Debug\netcoreapp2.0\OddEvenPostions.pdb
+D:\VS Projects\5.Loops\OddEvenPostions\obj\Debug\netcoreapp2.0\OddEvenPostions.csproj.CoreCompileInputs.cache
+D:\VS Projects\5.Loops\OddEvenPostions\obj\Debug\netcoreapp2.0\OddEvenPostions.AssemblyInfoInputs.cache
+D:\VS Projects\5.Loops\OddEvenPostions\obj\Debug\netcoreapp2.0\OddEvenPostions.AssemblyInfo.cs
+D:\VS Projects\5.Loops\OddEvenPostions\obj\Debug\netcoreapp2.0\OddEvenPostions.dll
+D:\VS Projects\5.Loops\OddEvenPostions\obj\Debug\netcoreapp2.0\OddEvenPostions.pdb

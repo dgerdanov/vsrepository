@@ -1,0 +1,6 @@
+D:\VS Projects\Drawing-with-Loops\TrangleOfDollars\bin\Debug\TrangleOfDollars.exe.config
+D:\VS Projects\Drawing-with-Loops\TrangleOfDollars\bin\Debug\TrangleOfDollars.exe
+D:\VS Projects\Drawing-with-Loops\TrangleOfDollars\bin\Debug\TrangleOfDollars.pdb
+D:\VS Projects\Drawing-with-Loops\TrangleOfDollars\obj\Debug\TrangleOfDollars.csproj.CoreCompileInputs.cache
+D:\VS Projects\Drawing-with-Loops\TrangleOfDollars\obj\Debug\TrangleOfDollars.exe
+D:\VS Projects\Drawing-with-Loops\TrangleOfDollars\obj\Debug\TrangleOfDollars.pdb

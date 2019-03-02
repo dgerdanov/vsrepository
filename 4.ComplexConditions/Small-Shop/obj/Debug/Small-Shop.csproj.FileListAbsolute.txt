@@ -1,0 +1,14 @@
+D:\VS Projects\ComplexConditions\Small-Shop\bin\Debug\Small-Shop.exe.config
+D:\VS Projects\ComplexConditions\Small-Shop\bin\Debug\Small-Shop.exe
+D:\VS Projects\ComplexConditions\Small-Shop\bin\Debug\Small-Shop.pdb
+D:\VS Projects\ComplexConditions\Small-Shop\obj\Debug\Small-Shop.csprojResolveAssemblyReference.cache
+D:\VS Projects\ComplexConditions\Small-Shop\obj\Debug\Small-Shop.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexConditions\Small-Shop\obj\Debug\Small-Shop.exe
+D:\VS Projects\ComplexConditions\Small-Shop\obj\Debug\Small-Shop.pdb
+D:\VS Projects\4.ComplexConditions\Small-Shop\obj\Debug\Small-Shop.csprojResolveAssemblyReference.cache
+D:\VS Projects\4.ComplexConditions\Small-Shop\obj\Debug\Small-Shop.csproj.CoreCompileInputs.cache
+D:\VS Projects\4.ComplexConditions\Small-Shop\obj\Debug\Small-Shop.exe
+D:\VS Projects\4.ComplexConditions\Small-Shop\obj\Debug\Small-Shop.pdb
+D:\VS Projects\4.ComplexConditions\Small-Shop\bin\Debug\Small-Shop.exe.config
+D:\VS Projects\4.ComplexConditions\Small-Shop\bin\Debug\Small-Shop.exe
+D:\VS Projects\4.ComplexConditions\Small-Shop\bin\Debug\Small-Shop.pdb

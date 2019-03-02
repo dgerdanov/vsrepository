@@ -1,0 +1,7 @@
+D:\VS Projects\ComplexLoops\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+D:\VS Projects\ComplexLoops\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexLoops\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\VS Projects\ComplexLoops\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\VS Projects\ComplexLoops\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\VS Projects\ComplexLoops\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\VS Projects\ComplexLoops\PrimeNumber\obj\Debug\PrimeNumber.pdb

@@ -1,0 +1,6 @@
+D:\VS Projects\ComplexLoops\Row2kPlus1\obj\Debug\Row2kPlus1.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexLoops\Row2kPlus1\bin\Debug\Row2kPlus1.exe.config
+D:\VS Projects\ComplexLoops\Row2kPlus1\bin\Debug\Row2kPlus1.exe
+D:\VS Projects\ComplexLoops\Row2kPlus1\bin\Debug\Row2kPlus1.pdb
+D:\VS Projects\ComplexLoops\Row2kPlus1\obj\Debug\Row2kPlus1.exe
+D:\VS Projects\ComplexLoops\Row2kPlus1\obj\Debug\Row2kPlus1.pdb

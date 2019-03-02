@@ -1,0 +1,7 @@
+D:\VS Projects\3.Simple-Conditions\MetricConvertor\obj\Debug\MetricConvertor.csprojResolveAssemblyReference.cache
+D:\VS Projects\3.Simple-Conditions\MetricConvertor\obj\Debug\MetricConvertor.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\MetricConvertor\bin\Debug\MetricConvertor.exe.config
+D:\VS Projects\3.Simple-Conditions\MetricConvertor\bin\Debug\MetricConvertor.exe
+D:\VS Projects\3.Simple-Conditions\MetricConvertor\bin\Debug\MetricConvertor.pdb
+D:\VS Projects\3.Simple-Conditions\MetricConvertor\obj\Debug\MetricConvertor.exe
+D:\VS Projects\3.Simple-Conditions\MetricConvertor\obj\Debug\MetricConvertor.pdb

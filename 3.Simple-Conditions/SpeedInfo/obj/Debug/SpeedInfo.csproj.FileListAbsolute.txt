@@ -1,0 +1,7 @@
+D:\VS Projects\3.Simple-Conditions\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+D:\VS Projects\3.Simple-Conditions\SpeedInfo\bin\Debug\SpeedInfo.exe
+D:\VS Projects\3.Simple-Conditions\SpeedInfo\bin\Debug\SpeedInfo.pdb
+D:\VS Projects\3.Simple-Conditions\SpeedInfo\obj\Debug\SpeedInfo.csprojResolveAssemblyReference.cache
+D:\VS Projects\3.Simple-Conditions\SpeedInfo\obj\Debug\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\SpeedInfo\obj\Debug\SpeedInfo.exe
+D:\VS Projects\3.Simple-Conditions\SpeedInfo\obj\Debug\SpeedInfo.pdb

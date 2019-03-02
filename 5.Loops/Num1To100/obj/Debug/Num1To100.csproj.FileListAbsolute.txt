@@ -1,0 +1,7 @@
+D:\VS Projects\Loops\Num1To100\obj\Debug\Num1To100.csprojResolveAssemblyReference.cache
+D:\VS Projects\Loops\Num1To100\obj\Debug\Num1To100.csproj.CoreCompileInputs.cache
+D:\VS Projects\Loops\Num1To100\bin\Debug\Num1To100.exe.config
+D:\VS Projects\Loops\Num1To100\bin\Debug\Num1To100.exe
+D:\VS Projects\Loops\Num1To100\bin\Debug\Num1To100.pdb
+D:\VS Projects\Loops\Num1To100\obj\Debug\Num1To100.exe
+D:\VS Projects\Loops\Num1To100\obj\Debug\Num1To100.pdb

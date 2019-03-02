@@ -1,0 +1,7 @@
+D:\VS Projects\ComplexLoops\SumOfDigits\obj\Debug\SumOfDigits.csprojResolveAssemblyReference.cache
+D:\VS Projects\ComplexLoops\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexLoops\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+D:\VS Projects\ComplexLoops\SumOfDigits\bin\Debug\SumOfDigits.exe
+D:\VS Projects\ComplexLoops\SumOfDigits\bin\Debug\SumOfDigits.pdb
+D:\VS Projects\ComplexLoops\SumOfDigits\obj\Debug\SumOfDigits.exe
+D:\VS Projects\ComplexLoops\SumOfDigits\obj\Debug\SumOfDigits.pdb

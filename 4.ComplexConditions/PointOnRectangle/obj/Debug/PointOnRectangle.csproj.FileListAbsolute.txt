@@ -1,0 +1,6 @@
+D:\VS Projects\ComplexConditions\PointOnRectangle\obj\Debug\PointOnRectangle.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexConditions\PointOnRectangle\bin\Debug\PointOnRectangle.exe.config
+D:\VS Projects\ComplexConditions\PointOnRectangle\bin\Debug\PointOnRectangle.exe
+D:\VS Projects\ComplexConditions\PointOnRectangle\bin\Debug\PointOnRectangle.pdb
+D:\VS Projects\ComplexConditions\PointOnRectangle\obj\Debug\PointOnRectangle.exe
+D:\VS Projects\ComplexConditions\PointOnRectangle\obj\Debug\PointOnRectangle.pdb

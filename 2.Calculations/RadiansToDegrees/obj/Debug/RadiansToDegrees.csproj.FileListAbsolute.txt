@@ -1,0 +1,6 @@
+D:\VS Projects\2.Calculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+D:\VS Projects\2.Calculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+D:\VS Projects\2.Calculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+D:\VS Projects\2.Calculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+D:\VS Projects\2.Calculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

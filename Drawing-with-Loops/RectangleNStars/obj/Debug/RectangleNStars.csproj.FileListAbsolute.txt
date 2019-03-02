@@ -1,0 +1,6 @@
+D:\VS Projects\Drawing-with-Loops\RectangleNStars\bin\Debug\RectangleNStars.exe.config
+D:\VS Projects\Drawing-with-Loops\RectangleNStars\bin\Debug\RectangleNStars.exe
+D:\VS Projects\Drawing-with-Loops\RectangleNStars\bin\Debug\RectangleNStars.pdb
+D:\VS Projects\Drawing-with-Loops\RectangleNStars\obj\Debug\RectangleNStars.csproj.CoreCompileInputs.cache
+D:\VS Projects\Drawing-with-Loops\RectangleNStars\obj\Debug\RectangleNStars.exe
+D:\VS Projects\Drawing-with-Loops\RectangleNStars\obj\Debug\RectangleNStars.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects\1.Programing Intro CSharp\Num1To20\bin\Debug\Num1To20.exe.config
+D:\VS Projects\1.Programing Intro CSharp\Num1To20\bin\Debug\Num1To20.exe
+D:\VS Projects\1.Programing Intro CSharp\Num1To20\bin\Debug\Num1To20.pdb
+D:\VS Projects\1.Programing Intro CSharp\Num1To20\obj\Debug\Num1To20.csprojResolveAssemblyReference.cache
+D:\VS Projects\1.Programing Intro CSharp\Num1To20\obj\Debug\Num1To20.csproj.CoreCompileInputs.cache
+D:\VS Projects\1.Programing Intro CSharp\Num1To20\obj\Debug\Num1To20.exe
+D:\VS Projects\1.Programing Intro CSharp\Num1To20\obj\Debug\Num1To20.pdb

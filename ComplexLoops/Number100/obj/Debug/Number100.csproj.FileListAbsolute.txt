@@ -1,0 +1,7 @@
+D:\VS Projects\ComplexLoops\Number100\obj\Debug\Number100.csprojResolveAssemblyReference.cache
+D:\VS Projects\ComplexLoops\Number100\obj\Debug\Number100.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexLoops\Number100\bin\Debug\Number100.exe.config
+D:\VS Projects\ComplexLoops\Number100\bin\Debug\Number100.exe
+D:\VS Projects\ComplexLoops\Number100\bin\Debug\Number100.pdb
+D:\VS Projects\ComplexLoops\Number100\obj\Debug\Number100.exe
+D:\VS Projects\ComplexLoops\Number100\obj\Debug\Number100.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects\1.Programing Intro CSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\VS Projects\1.Programing Intro CSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\VS Projects\1.Programing Intro CSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\VS Projects\1.Programing Intro CSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csprojResolveAssemblyReference.cache
+D:\VS Projects\1.Programing Intro CSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+D:\VS Projects\1.Programing Intro CSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\VS Projects\1.Programing Intro CSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects\Drawing-with-Loops\Rectangle-of-10x10-Stars\bin\Debug\Rectangle-of-10x10-Stars.exe.config
+D:\VS Projects\Drawing-with-Loops\Rectangle-of-10x10-Stars\bin\Debug\Rectangle-of-10x10-Stars.exe
+D:\VS Projects\Drawing-with-Loops\Rectangle-of-10x10-Stars\bin\Debug\Rectangle-of-10x10-Stars.pdb
+D:\VS Projects\Drawing-with-Loops\Rectangle-of-10x10-Stars\obj\Debug\RectangleTenStars.csprojResolveAssemblyReference.cache
+D:\VS Projects\Drawing-with-Loops\Rectangle-of-10x10-Stars\obj\Debug\RectangleTenStars.csproj.CoreCompileInputs.cache
+D:\VS Projects\Drawing-with-Loops\Rectangle-of-10x10-Stars\obj\Debug\Rectangle-of-10x10-Stars.exe
+D:\VS Projects\Drawing-with-Loops\Rectangle-of-10x10-Stars\obj\Debug\Rectangle-of-10x10-Stars.pdb

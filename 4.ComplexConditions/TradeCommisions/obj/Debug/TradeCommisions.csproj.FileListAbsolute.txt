@@ -1,0 +1,14 @@
+D:\VS Projects\ComplexConditions\TradeCommisions\bin\Debug\TradeCommisions.exe.config
+D:\VS Projects\ComplexConditions\TradeCommisions\bin\Debug\TradeCommisions.exe
+D:\VS Projects\ComplexConditions\TradeCommisions\bin\Debug\TradeCommisions.pdb
+D:\VS Projects\ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.csprojResolveAssemblyReference.cache
+D:\VS Projects\ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.exe
+D:\VS Projects\ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.pdb
+D:\VS Projects\4.ComplexConditions\TradeCommisions\bin\Debug\TradeCommisions.exe.config
+D:\VS Projects\4.ComplexConditions\TradeCommisions\bin\Debug\TradeCommisions.exe
+D:\VS Projects\4.ComplexConditions\TradeCommisions\bin\Debug\TradeCommisions.pdb
+D:\VS Projects\4.ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.csprojResolveAssemblyReference.cache
+D:\VS Projects\4.ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.csproj.CoreCompileInputs.cache
+D:\VS Projects\4.ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.exe
+D:\VS Projects\4.ComplexConditions\TradeCommisions\obj\Debug\TradeCommisions.pdb

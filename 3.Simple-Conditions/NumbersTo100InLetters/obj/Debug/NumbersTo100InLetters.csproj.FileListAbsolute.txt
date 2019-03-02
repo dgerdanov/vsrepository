@@ -1,0 +1,6 @@
+D:\VS Projects\3.Simple-Conditions\NumbersTo100InLetters\bin\Debug\NumbersTo100InLetters.exe.config
+D:\VS Projects\3.Simple-Conditions\NumbersTo100InLetters\bin\Debug\NumbersTo100InLetters.exe
+D:\VS Projects\3.Simple-Conditions\NumbersTo100InLetters\bin\Debug\NumbersTo100InLetters.pdb
+D:\VS Projects\3.Simple-Conditions\NumbersTo100InLetters\obj\Debug\NumbersTo100InLetters.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\NumbersTo100InLetters\obj\Debug\NumbersTo100InLetters.exe
+D:\VS Projects\3.Simple-Conditions\NumbersTo100InLetters\obj\Debug\NumbersTo100InLetters.pdb

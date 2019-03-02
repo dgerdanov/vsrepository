@@ -1,0 +1,6 @@
+D:\VS Projects\Loops\AllLatinLetters\obj\Debug\AllLatinLetters.csproj.CoreCompileInputs.cache
+D:\VS Projects\Loops\AllLatinLetters\bin\Debug\AllLatinLetters.exe.config
+D:\VS Projects\Loops\AllLatinLetters\bin\Debug\AllLatinLetters.exe
+D:\VS Projects\Loops\AllLatinLetters\bin\Debug\AllLatinLetters.pdb
+D:\VS Projects\Loops\AllLatinLetters\obj\Debug\AllLatinLetters.exe
+D:\VS Projects\Loops\AllLatinLetters\obj\Debug\AllLatinLetters.pdb

@@ -1,0 +1,6 @@
+D:\VS Projects\2.Calculations\ConverterFromCelciusToFarenheit\bin\Debug\ConverterFromCelciusToFarenheit.exe.config
+D:\VS Projects\2.Calculations\ConverterFromCelciusToFarenheit\bin\Debug\ConverterFromCelciusToFarenheit.exe
+D:\VS Projects\2.Calculations\ConverterFromCelciusToFarenheit\bin\Debug\ConverterFromCelciusToFarenheit.pdb
+D:\VS Projects\2.Calculations\ConverterFromCelciusToFarenheit\obj\Debug\ConverterFromCelciusToFarenheit.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\ConverterFromCelciusToFarenheit\obj\Debug\ConverterFromCelciusToFarenheit.exe
+D:\VS Projects\2.Calculations\ConverterFromCelciusToFarenheit\obj\Debug\ConverterFromCelciusToFarenheit.pdb

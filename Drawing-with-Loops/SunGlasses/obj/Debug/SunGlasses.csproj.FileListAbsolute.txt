@@ -1,0 +1,7 @@
+D:\VS Projects\Drawing-with-Loops\SunGlasses\bin\Debug\SunGlasses.exe.config
+D:\VS Projects\Drawing-with-Loops\SunGlasses\bin\Debug\SunGlasses.exe
+D:\VS Projects\Drawing-with-Loops\SunGlasses\bin\Debug\SunGlasses.pdb
+D:\VS Projects\Drawing-with-Loops\SunGlasses\obj\Debug\SunGlasses.csprojResolveAssemblyReference.cache
+D:\VS Projects\Drawing-with-Loops\SunGlasses\obj\Debug\SunGlasses.csproj.CoreCompileInputs.cache
+D:\VS Projects\Drawing-with-Loops\SunGlasses\obj\Debug\SunGlasses.exe
+D:\VS Projects\Drawing-with-Loops\SunGlasses\obj\Debug\SunGlasses.pdb

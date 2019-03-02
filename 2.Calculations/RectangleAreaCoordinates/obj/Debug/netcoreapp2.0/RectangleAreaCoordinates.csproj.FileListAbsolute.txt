@@ -1,0 +1,11 @@
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\obj\Debug\netcoreapp2.0\RectangleAreaCoordinates.csprojResolveAssemblyReference.cache
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\obj\Debug\netcoreapp2.0\RectangleAreaCoordinates.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\obj\Debug\netcoreapp2.0\RectangleAreaCoordinates.AssemblyInfoInputs.cache
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\obj\Debug\netcoreapp2.0\RectangleAreaCoordinates.AssemblyInfo.cs
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\bin\Debug\netcoreapp2.0\RectangleAreaCoordinates.deps.json
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\bin\Debug\netcoreapp2.0\RectangleAreaCoordinates.runtimeconfig.json
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\bin\Debug\netcoreapp2.0\RectangleAreaCoordinates.runtimeconfig.dev.json
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\bin\Debug\netcoreapp2.0\RectangleAreaCoordinates.dll
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\bin\Debug\netcoreapp2.0\RectangleAreaCoordinates.pdb
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\obj\Debug\netcoreapp2.0\RectangleAreaCoordinates.dll
+D:\VS Projects\2.Calculations\RectangleAreaCoordinates\obj\Debug\netcoreapp2.0\RectangleAreaCoordinates.pdb

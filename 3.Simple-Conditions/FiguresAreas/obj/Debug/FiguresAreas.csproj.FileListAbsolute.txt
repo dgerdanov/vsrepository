@@ -1,0 +1,7 @@
+D:\VS Projects\3.Simple-Conditions\FiguresAreas\obj\Debug\FiguresAreas.csprojResolveAssemblyReference.cache
+D:\VS Projects\3.Simple-Conditions\FiguresAreas\obj\Debug\FiguresAreas.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\FiguresAreas\bin\Debug\FiguresAreas.exe.config
+D:\VS Projects\3.Simple-Conditions\FiguresAreas\bin\Debug\FiguresAreas.exe
+D:\VS Projects\3.Simple-Conditions\FiguresAreas\bin\Debug\FiguresAreas.pdb
+D:\VS Projects\3.Simple-Conditions\FiguresAreas\obj\Debug\FiguresAreas.exe
+D:\VS Projects\3.Simple-Conditions\FiguresAreas\obj\Debug\FiguresAreas.pdb

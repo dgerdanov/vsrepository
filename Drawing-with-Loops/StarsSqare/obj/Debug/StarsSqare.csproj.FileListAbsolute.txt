@@ -1,0 +1,6 @@
+D:\VS Projects\Drawing-with-Loops\StarsSqare\obj\Debug\StarsSqare.csproj.CoreCompileInputs.cache
+D:\VS Projects\Drawing-with-Loops\StarsSqare\bin\Debug\StarsSqare.exe.config
+D:\VS Projects\Drawing-with-Loops\StarsSqare\bin\Debug\StarsSqare.exe
+D:\VS Projects\Drawing-with-Loops\StarsSqare\bin\Debug\StarsSqare.pdb
+D:\VS Projects\Drawing-with-Loops\StarsSqare\obj\Debug\StarsSqare.exe
+D:\VS Projects\Drawing-with-Loops\StarsSqare\obj\Debug\StarsSqare.pdb

@@ -1,0 +1,6 @@
+D:\VS Projects\3.Simple-Conditions\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\EqualWords\bin\Debug\EqualWords.exe.config
+D:\VS Projects\3.Simple-Conditions\EqualWords\bin\Debug\EqualWords.exe
+D:\VS Projects\3.Simple-Conditions\EqualWords\bin\Debug\EqualWords.pdb
+D:\VS Projects\3.Simple-Conditions\EqualWords\obj\Debug\EqualWords.exe
+D:\VS Projects\3.Simple-Conditions\EqualWords\obj\Debug\EqualWords.pdb

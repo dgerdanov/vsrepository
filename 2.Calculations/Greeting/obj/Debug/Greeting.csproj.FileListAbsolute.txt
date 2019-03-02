@@ -1,0 +1,6 @@
+D:\VS Projects\2.Calculations\Greeting\bin\Debug\Greeting.exe.config
+D:\VS Projects\2.Calculations\Greeting\bin\Debug\Greeting.exe
+D:\VS Projects\2.Calculations\Greeting\bin\Debug\Greeting.pdb
+D:\VS Projects\2.Calculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\Greeting\obj\Debug\Greeting.exe
+D:\VS Projects\2.Calculations\Greeting\obj\Debug\Greeting.pdb

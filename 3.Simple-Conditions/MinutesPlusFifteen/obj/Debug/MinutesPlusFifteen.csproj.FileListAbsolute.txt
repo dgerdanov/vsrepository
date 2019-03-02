@@ -1,0 +1,7 @@
+D:\VS Projects\3.Simple-Conditions\MinutesPlusFifteen\bin\Debug\MinutesPlusFifteen.exe.config
+D:\VS Projects\3.Simple-Conditions\MinutesPlusFifteen\bin\Debug\MinutesPlusFifteen.exe
+D:\VS Projects\3.Simple-Conditions\MinutesPlusFifteen\bin\Debug\MinutesPlusFifteen.pdb
+D:\VS Projects\3.Simple-Conditions\MinutesPlusFifteen\obj\Debug\MinutesPlusFifteen.csprojResolveAssemblyReference.cache
+D:\VS Projects\3.Simple-Conditions\MinutesPlusFifteen\obj\Debug\MinutesPlusFifteen.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\MinutesPlusFifteen\obj\Debug\MinutesPlusFifteen.exe
+D:\VS Projects\3.Simple-Conditions\MinutesPlusFifteen\obj\Debug\MinutesPlusFifteen.pdb

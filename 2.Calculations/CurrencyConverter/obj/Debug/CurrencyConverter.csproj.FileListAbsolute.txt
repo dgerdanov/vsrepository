@@ -1,0 +1,7 @@
+D:\VS Projects\2.Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\VS Projects\2.Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\VS Projects\2.Calculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\VS Projects\2.Calculations\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\VS Projects\2.Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\VS Projects\2.Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

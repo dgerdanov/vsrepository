@@ -1,0 +1,7 @@
+D:\VS Projects\3.Simple-Conditions\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\VS Projects\3.Simple-Conditions\OddOrEven\bin\Debug\OddOrEven.exe
+D:\VS Projects\3.Simple-Conditions\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\VS Projects\3.Simple-Conditions\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+D:\VS Projects\3.Simple-Conditions\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\OddOrEven\obj\Debug\OddOrEven.exe
+D:\VS Projects\3.Simple-Conditions\OddOrEven\obj\Debug\OddOrEven.pdb

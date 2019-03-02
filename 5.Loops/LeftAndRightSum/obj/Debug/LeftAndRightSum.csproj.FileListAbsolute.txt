@@ -1,0 +1,7 @@
+D:\VS Projects\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
+D:\VS Projects\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\VS Projects\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\VS Projects\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\VS Projects\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\VS Projects\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\VS Projects\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

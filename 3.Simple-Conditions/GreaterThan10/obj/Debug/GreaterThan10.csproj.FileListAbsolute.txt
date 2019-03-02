@@ -1,0 +1,6 @@
+D:\VS Projects\3.Simple-Conditions\GreaterThan10\obj\Debug\GreaterThan10.csproj.CoreCompileInputs.cache
+D:\VS Projects\3.Simple-Conditions\GreaterThan10\bin\Debug\GreaterThan10.exe.config
+D:\VS Projects\3.Simple-Conditions\GreaterThan10\bin\Debug\GreaterThan10.exe
+D:\VS Projects\3.Simple-Conditions\GreaterThan10\bin\Debug\GreaterThan10.pdb
+D:\VS Projects\3.Simple-Conditions\GreaterThan10\obj\Debug\GreaterThan10.exe
+D:\VS Projects\3.Simple-Conditions\GreaterThan10\obj\Debug\GreaterThan10.pdb

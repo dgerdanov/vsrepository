@@ -1,0 +1,5 @@
+D:\VS Projects\2.Calculations\Catch_Me\obj\Debug\Catch_Me.csprojResolveAssemblyReference.cache
+D:\VS Projects\2.Calculations\Catch_Me\obj\Debug\Catch_Me.Form1.resources
+D:\VS Projects\2.Calculations\Catch_Me\obj\Debug\Catch_Me.Properties.Resources.resources
+D:\VS Projects\2.Calculations\Catch_Me\obj\Debug\Catch_Me.csproj.GenerateResource.cache
+D:\VS Projects\2.Calculations\Catch_Me\obj\Debug\Catch_Me.csproj.CoreCompileInputs.cache

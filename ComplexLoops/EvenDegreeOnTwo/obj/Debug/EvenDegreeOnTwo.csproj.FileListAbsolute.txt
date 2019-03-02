@@ -1,0 +1,6 @@
+D:\VS Projects\ComplexLoops\EvenDegreeOnTwo\bin\Debug\EvenDegreeOnTwo.exe.config
+D:\VS Projects\ComplexLoops\EvenDegreeOnTwo\bin\Debug\EvenDegreeOnTwo.exe
+D:\VS Projects\ComplexLoops\EvenDegreeOnTwo\bin\Debug\EvenDegreeOnTwo.pdb
+D:\VS Projects\ComplexLoops\EvenDegreeOnTwo\obj\Debug\EvenDegreeOnTwo.csproj.CoreCompileInputs.cache
+D:\VS Projects\ComplexLoops\EvenDegreeOnTwo\obj\Debug\EvenDegreeOnTwo.exe
+D:\VS Projects\ComplexLoops\EvenDegreeOnTwo\obj\Debug\EvenDegreeOnTwo.pdb

@@ -1,0 +1,10 @@
+D:\VS Projects\5.Loops\MatchingPairs\obj\Debug\netcoreapp2.0\MatchingPairs.csproj.CoreCompileInputs.cache
+D:\VS Projects\5.Loops\MatchingPairs\obj\Debug\netcoreapp2.0\MatchingPairs.AssemblyInfoInputs.cache
+D:\VS Projects\5.Loops\MatchingPairs\obj\Debug\netcoreapp2.0\MatchingPairs.AssemblyInfo.cs
+D:\VS Projects\5.Loops\MatchingPairs\bin\Debug\netcoreapp2.0\MatchingPairs.deps.json
+D:\VS Projects\5.Loops\MatchingPairs\bin\Debug\netcoreapp2.0\MatchingPairs.runtimeconfig.json
+D:\VS Projects\5.Loops\MatchingPairs\bin\Debug\netcoreapp2.0\MatchingPairs.runtimeconfig.dev.json
+D:\VS Projects\5.Loops\MatchingPairs\bin\Debug\netcoreapp2.0\MatchingPairs.dll
+D:\VS Projects\5.Loops\MatchingPairs\bin\Debug\netcoreapp2.0\MatchingPairs.pdb
+D:\VS Projects\5.Loops\MatchingPairs\obj\Debug\netcoreapp2.0\MatchingPairs.dll
+D:\VS Projects\5.Loops\MatchingPairs\obj\Debug\netcoreapp2.0\MatchingPairs.pdb

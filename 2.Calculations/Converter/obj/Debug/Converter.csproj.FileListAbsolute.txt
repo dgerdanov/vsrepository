@@ -1,0 +1,7 @@
+D:\VS Projects\2.Calculations\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+D:\VS Projects\2.Calculations\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\VS Projects\2.Calculations\Converter\bin\Debug\Converter.exe.config
+D:\VS Projects\2.Calculations\Converter\bin\Debug\Converter.exe
+D:\VS Projects\2.Calculations\Converter\bin\Debug\Converter.pdb
+D:\VS Projects\2.Calculations\Converter\obj\Debug\Converter.exe
+D:\VS Projects\2.Calculations\Converter\obj\Debug\Converter.pdb
